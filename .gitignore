@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+venv/
+env/
+.venv/
+myenv/
+
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+
+
+# code 
+*.py
+
+#files
+*.pkl
